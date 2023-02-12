@@ -4,6 +4,6 @@
 
 # 학습 내용
 
--[x] Node.js
--[x] Postman
--[x] express
+- [x] Node.js
+- [x] Postman
+- [x] express
